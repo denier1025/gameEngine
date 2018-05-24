@@ -1,0 +1,6 @@
+
+.idea/
+gameEngine.iml
+/libs/
+*.log
+/target/
